@@ -1,3 +1,14 @@
+@media (max-width: 600px) {
+  body {
+    font-size: 16px;
+  }
+
+  .container {
+    padding: 10px;
+  }
+}
+
+
 /*///////// TITULO ///////////*/
 .titulo-caixa {
 	margin: 0 auto;
